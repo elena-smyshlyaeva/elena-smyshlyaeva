@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-#### I'm Elena, an university student and back-end dev from Russia
+#### I'm Elena, an university student and backend dev from Russia
 <hr>
 
 ...*I'm currently learning spring framework and hibernate*...
