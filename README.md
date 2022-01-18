@@ -15,7 +15,6 @@
 
 :mortar_board: computer science
 
-:headphones: metalcore and *deathcore!*
 <hr>
 
 ### My skills:
