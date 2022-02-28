@@ -3,7 +3,7 @@
 #### I'm Elena, an university student and backend dev from Russia
 <hr>
 
-...*I'm currently learning spring framework and hibernate*...
+...*Java Backend Junior in Andersen company*...
 
 <hr>
 
